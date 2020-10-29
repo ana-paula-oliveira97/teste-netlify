@@ -1,0 +1,29 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/a_gangue.js": "pages/a_gangue.js",
+    "pages/about.js": "pages/about.js",
+    "pages/blog.js": "pages/blog.js",
+    "pages/escolhida.js": "pages/escolhida.js",
+    "pages/index.js": "pages/index.js",
+    "pages/morte_subita_2.js": "pages/morte_subita_2.js",
+    "pages/noticia-netflix.js": "pages/noticia-netflix.js",
+    "pages/poster.js": "pages/poster.js",
+    "pages/sangue_de_pelicano.js": "pages/sangue_de_pelicano.js",
+    "pages/tickets.js": "pages/tickets.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/a_gangue.js": "pages/a_gangue.js.map",
+    "pages/about.js": "pages/about.js.map",
+    "pages/blog.js": "pages/blog.js.map",
+    "pages/escolhida.js": "pages/escolhida.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/morte_subita_2.js": "pages/morte_subita_2.js.map",
+    "pages/noticia-netflix.js": "pages/noticia-netflix.js.map",
+    "pages/poster.js": "pages/poster.js.map",
+    "pages/sangue_de_pelicano.js": "pages/sangue_de_pelicano.js.map",
+    "pages/tickets.js": "pages/tickets.js.map",
+    "server.js": "server.js.map"
+  }
+}
